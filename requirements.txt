@@ -1,0 +1,8 @@
+# Generated from notebook imports - versions not pinned, install latest compatible
+librosa
+matplotlib
+numpy
+pyworld
+scipy
+soundfile
+tensorflow
